@@ -1,0 +1,9 @@
+/src
+/Icon
+*~
+*.o
+/.deps
+/autom4te.cache
+/pic
+*.bak
+*.m4
